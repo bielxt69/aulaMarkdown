@@ -16,3 +16,63 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# **Engenharia de requisitos**
+
+## Definição 
+
+É uma abordagem sistemática para elicitar, organizar e documentar os requisitos do sistema, para garantir completeza, consistência e relevância dos requisitos.
+
+##concepção 
+
+nessa etapa identifica-se os stakehoders e seus diferentes pontos de vista sobre o problema de influências .Então , desenha-se a visão geral a ser desenvolvido caracterizado por necessidades dos stakehoders.
+
+Elicitação
+
+é responsável por extrair as necessidades e os desejos dos stakeholders que serão traduzidas em funcionalidades implementadas na solução final.
+
+### categorias funcionais: descrevem as fucionalidades do sistemas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
