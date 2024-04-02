@@ -33,13 +33,13 @@ Elicitação
 
 ### categorias funcionais: descrevem as fucionalidades do sistemas
 
+## levantamento
 
+é uma etapa em que se pergunta ao cliente, usuários e os demais interessados quais são os objetivos de cada um para o sistema, qual será o objetivo do sistema, como o sistema atenderá às necessidades da empresa e como o sistema deverá ser utilizado no dia a dia.
 
+##elaboração
 
-
-
-
-
+é uma etapa em que se pergunta ao cliente, usuários e os demais interessados quais são os objetivos de cada um para o sistema, qual será o objetivo do sistema, como o sistema atenderá às necessidades da empresa e como o sistema deverá ser utilizado no dia a dia.
 
 
 
