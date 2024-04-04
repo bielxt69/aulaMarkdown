@@ -41,6 +41,7 @@ Elicitação
 
 é uma etapa em que se pergunta ao cliente, usuários e os demais interessados quais são os objetivos de cada um para o sistema, qual será o objetivo do sistema, como o sistema atenderá às necessidades da empresa e como o sistema deverá ser utilizado no dia a dia.
 
+## requisitos não fuicionais:são classificados em três tipos, são eles: Requisitos do Produto Final, Requisitos Organizacionais e Requisitos Externos.
 
 
 
